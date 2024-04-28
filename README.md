@@ -28,7 +28,8 @@ In this repository, you will find the following:
 - [README.md](README.md): introduction of the GitHub Repository as the Answers to Final Project
 - [CSEcon](CSEcon/README.md): A polished version of the Problem Set 1
 - [Advance_CSEcon](Advance_CSEcon/README.md): A polished version of the Problem Set 1
-
+- [Proposal](Proposal/README.md): A polished version of the Problem Set 2
+  
 ## More About the Author
 ![Headshot](image.png)
 - **Self-Introduction**: I am Hantian Zhang from Jiangsu Province, China. Now I’m a junior student majoring in Math with CS track. I am deeply interested in economics, and I enjoy learning relative knowledge. I am dedicated to continuous learning and staying updated with the latest advancements in game theory. 
