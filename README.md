@@ -27,7 +27,7 @@ In this repository, you will find the following:
 
 - [README.md](README.md): introduction of the GitHub Repository as the Answers to Final Project
 - [CSEcon](CSEcon/README.md): A polished version of the Problem Set 1
-- [Advance_CSEcon](Advance_CSEcon/README.md): A polished version of the Problem Set 2
+- [Advance_CSEcon](Advance_CSEcon/README.md): A polished version of the Problem Set 1
 
 ## More About the Author
 ![Headshot](image.png)
@@ -56,7 +56,7 @@ You can view the shared Overleaf project through the following link:
 
 The LaTeX source files for this project have been provided as a downloadable ZIP file.
 
-[Download LaTeX ZIP File](path-to-your-latex-zip-in-github)
+[Download LaTeX ZIP File](PS2_Final.zip)
 
 ## Google Colab Notebooks
 
