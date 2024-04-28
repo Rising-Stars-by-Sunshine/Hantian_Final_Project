@@ -10,12 +10,23 @@
 
 Please provide an introduction to the content of this GitHub repository, bearing in mind that external viewers may not be familiar with the terms PS1, PS2, and the Final Project as used in our class. It is essential to include enough background information to bring outsiders up to speed. Additionally, include a flowchart that clearly outlines the logical progression and the interconnections between these assignments for a clearer understanding of the course structure.
 
+
+## Introduction of Computational Microeconomics Problem Set 1
+
+Welcome to the GitHub repository for Final project of COMSCI/ECON206 Computational Microeconomics, instructed by Prof. Luyao Zhang at DKU. This course introduces students to the fundamentals of game theory and equips them with the computational tools necessary to analyze and model complex economic systems. In this repository, you will find explanations for the questions regarding game theory assigned in the milestone 1 and 2. By exploring the intersection of computer science and economics, you are expected to develop a deeper understanding of how computational techniques can be applied to address real-world economic challenges.
+
 ## Table of Contents
-Could you provide a table of content with hyperlink to all the parts? 
+
+In this repository, you will find the following:
+
+- [README.md](README.md): introduction of the GitHub Repository as the Answers to Problem Set 1
+- [CSEcon1](CSEcon1/README.md): A polished version of the Reflection on Milestone 1
+- [Advance_CSEcon](Advance_CSECON/README.md): A polished version of the Reflection on Milestone 2
 
 ## More About the Author
-![Headshot](url-to-headshot-image)
-- **Self-Introduction**: A brief biography highlighting academic and personal interests.
+![Headshot](image.png)
+- **Self-Introduction**: I am Hantian Zhang from Jiangsu Province, China. Now I’m a junior student majoring in Math with CS track. I am deeply interested in economics, and I enjoy learning relative knowledge. I am dedicated to continuous learning and staying updated with the latest advancements in game theory. 
+
 - **Final Reflections**: 
   - **Intellectual Growth**: Insights and knowledge acquired.
   - **Professional Growth**: Skills developed and career aspirations.
