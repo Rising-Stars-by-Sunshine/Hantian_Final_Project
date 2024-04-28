@@ -11,17 +11,25 @@
 Please provide an introduction to the content of this GitHub repository, bearing in mind that external viewers may not be familiar with the terms PS1, PS2, and the Final Project as used in our class. It is essential to include enough background information to bring outsiders up to speed. Additionally, include a flowchart that clearly outlines the logical progression and the interconnections between these assignments for a clearer understanding of the course structure.
 
 
-## Introduction of Computational Microeconomics Problem Set 1
+## Introduction of Computational Microeconomics Final Project
 
-Welcome to the GitHub repository for Final project of COMSCI/ECON206 Computational Microeconomics, instructed by Prof. Luyao Zhang at DKU. This course introduces students to the fundamentals of game theory and equips them with the computational tools necessary to analyze and model complex economic systems. In this repository, you will find explanations for the questions regarding game theory assigned in the milestone 1 and 2. By exploring the intersection of computer science and economics, you are expected to develop a deeper understanding of how computational techniques can be applied to address real-world economic challenges.
+Welcome to the GitHub repository for Final project of COMSCI/ECON206 Computational Microeconomics, instructed by Prof. Luyao Zhang at DKU. This course introduces students to the fundamentals of game theory and equips them with the computational tools necessary to analyze and model complex economic systems. In this repository, you will find explanations for the questions regarding game theory assigned in the milestones. By exploring the intersection of computer science and economics, you are expected to develop a deeper understanding of how computational techniques can be applied to address real-world economic challenges. The final project proposes a novel solution or improvement to the identified problem, potentially integrating interdisciplinary insights or emerging technologies, which consists of PS1 and PS2.
+
+- **PS1 (Problem Set 1)**: This initial assignment comprises two milestones, serving as a groundwork investigation into economic and strategic considerations using game theory.
+
+- **PS2 (Problem Set 2)**: Building on the knowledge from PS1, PS2 includes two additional milestones that helps identify and analyze current limitations within Game Theory and Mechanism Design. 
+
+Here is the flowchart providing a visual guide to how this project highlights the progression from a general understanding of Game Theory to the creation of a specific research proposal aimed at advancing the field. 
+
+![Flowchart](flow_chart.png)
 
 ## Table of Contents
 
 In this repository, you will find the following:
 
-- [README.md](README.md): introduction of the GitHub Repository as the Answers to Problem Set 1
-- [CSEcon1](CSEcon1/README.md): A polished version of the Reflection on Milestone 1
-- [Advance_CSEcon](Advance_CSECON/README.md): A polished version of the Reflection on Milestone 2
+- [README.md](README.md): introduction of the GitHub Repository as the Answers to Final Project
+- [CSEcon](CSEcon/README.md): A polished version of the Problem Set 1
+- [Advance_CSEcon](Advance_CSEcon/README.md): A polished version of the Problem Set 2
 
 ## More About the Author
 ![Headshot](image.png)
