@@ -32,7 +32,16 @@ In this repository, you will find the following:
   
 ## More About the Author
 ![Headshot](image.png)
-- **Self-Introduction**: I am Hantian Zhang from Jiangsu Province, China. Now I’m a junior student majoring in Math with CS track. I am deeply interested in economics, and I enjoy learning relative knowledge. I am dedicated to continuous learning and staying updated with the latest advancements in game theory. 
+- ## 🎓 Self-Introduction
+- **Name**: Hantian Zhang 📍
+- **Location**: Jiangsu Province, China 🇨🇳
+- **Education**: I'm currently a junior student majoring in Math with a Computer Science track at Duke Kunshan University.
+- **Interests**: I have a deep passion for economics and am always eager to learn more about the subject. 📊💹
+- **Hobbies**: I enjoy exploring the latest advancements in game theory and continually strive to expand my knowledge. 🧠♟️
+- **Commitment**: Dedicated to lifelong learning and staying updated with cutting-edge developments in my fields of interest. 🔍📚
+
+Feel free to connect with me or follow my projects here on GitHub! 👋
+
 
 - **Final Reflections**: 
 
