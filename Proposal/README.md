@@ -24,6 +24,8 @@ Find the Google Colab notebook that applies game theory analytical tools for sol
 
 ## Research Description
 
+[!image](mindmap.png)
+
 ### Summarize the Background/Motivation
 This study is motivated by significant gaps in traditional economic models, particularly evident in sectors like the second-hand car market where information asymmetry leads to inefficient outcomes. Known as the "lemons problem," this market condition, where sellers have superior knowledge about the product quality that buyers cannot verify, typifies the adverse selection problem. These issues are exacerbated in a digital economy that increasingly integrates complex systems involving human and AI agents. The research is inspired by the need to address these persistent gaps in handling information asymmetry, which current economic frameworks fail to resolve effectively [[Akerlof, 1978](https://doi.org/10.1007/BF00167524)].
 
