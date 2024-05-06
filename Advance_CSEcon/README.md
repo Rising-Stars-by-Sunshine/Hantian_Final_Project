@@ -2,10 +2,10 @@
 
 Analyze your experience with oTree, identifying pain points in behavioral game theory research. Review related literature and class discussions to understand experimental economics' goals. Propose a software solution that outperforms oTree in at least three aspects, enhancing strategic interaction studies. Highlight why these advancements are crucial. Submit a concise essay question answer (500 words max) with your analysis and proposals, backed by literature and class insights. Your innovative ideas can significantly contribute to experimental economics, addressing current limitations and paving the way for advanced research methodologies. 
 
-![Image](Advance_CSEcon/m2_q1_1.png)
+![Image](m2_q1_1.png)
 **Figure 1. The Process of the Trust Game via oTree**
 
-![Image](Advance_CSEcon/m2_q1_2.png)
+![Image](m2_q1_2.png)
 **Figure 2. The Result of the Trust Game via oTree**
 
 My experience with oTree for conducting behavioral experiments has been both enlightening and challenging. While it offers flexibility and convenience, several pain points hinder its effectiveness in behavioral game theory research. In deploying the trust game using oTree, I encountered several difficulties reflective of broader challenges in behavioral game theory research. 
