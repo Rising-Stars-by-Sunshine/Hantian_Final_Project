@@ -43,7 +43,7 @@ In this repository, you will find the following:
 Feel free to connect with me or follow my projects here on GitHub! 👋
 
 
-- **Final Reflections**: 
+**Final Reflections**: 
 
   - **Intellectual Growth**: Throughout my studies in Math and Computer Science with a focus on economics, I have gained substantial insights into the intricate world of game theory and economic modeling. This interdisciplinary approach has allowed me to appreciate the complexities of economic systems and the mathematical underpinnings that drive theoretical and practical applications. Engaging with advanced game theory concepts has not only expanded my understanding but also fueled my curiosity about how these theories apply to real-world economic scenarios, enhancing my analytical and problem-solving skills.
   - **Professional Growth**: My academic journey has been instrumental in developing both my technical and soft skills. Proficiency in programming languages like Python and R, combined with advanced mathematical techniques, has prepared me for tackling complex problems efficiently. These skills are complemented by my ability to communicate complex ideas effectively, a crucial aspect of professional growth in any field. Looking forward, I aspire to leverage these skills in a career that bridges technology and economics, potentially in roles that focus on economic analysis, data science, or algorithmic trading, where I can apply my passion for game theory in practical and impactful ways.
