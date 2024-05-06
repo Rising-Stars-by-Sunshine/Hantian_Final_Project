@@ -4,6 +4,7 @@ Analyze your experience with oTree, identifying pain points in behavioral game t
 
 ![Image](Advance_CSEcon/m2_q1_1.png)
 **Figure 1. The Process of the Trust Game via oTree**
+
 ![Image](Advance_CSEcon/m2_q1_2.png)
 **Figure 2. The Result of the Trust Game via oTree**
 
