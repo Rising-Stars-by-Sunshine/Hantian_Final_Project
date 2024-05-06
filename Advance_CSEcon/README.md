@@ -72,8 +72,10 @@ Incorporating the concept of bounded rationality in both human participants and 
 
 ![Image](m2_q3_1.png)
 **Figure 5. Screenshot of ChatGPT's response 1**
+
 ![Image](m2_q3_2.png)
 **Figure 6. Screenshot of ChatGPT's response 2**
+
 ![Image](m2_q3_3.png)
 **Figure 7. Mindmap of Question3**
 
