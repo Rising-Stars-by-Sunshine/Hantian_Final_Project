@@ -1,6 +1,6 @@
 # CSECON206_Spring2024
 
-## Mitigating Information Asymmetry in Economic Transactions by Social Networks Analysis
+# Mitigating Information Asymmetry in Economic Transactions by Social Networks Analysis
 
 ## Project Information
 - **Author**: Hantian Zhang, Majoring in Applied Mathematics and Computational Sciences, Class of 2025, Duke Kunshan University
