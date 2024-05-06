@@ -2,10 +2,10 @@
 
 Analyze your experience with oTree, identifying pain points in behavioral game theory research. Review related literature and class discussions to understand experimental economics' goals. Propose a software solution that outperforms oTree in at least three aspects, enhancing strategic interaction studies. Highlight why these advancements are crucial. Submit a concise essay question answer (500 words max) with your analysis and proposals, backed by literature and class insights. Your innovative ideas can significantly contribute to experimental economics, addressing current limitations and paving the way for advanced research methodologies. 
 
-![Image1](Advance_CSEcon/m2_q1_1.png)
+![Image](Advance_CSEcon/m2_q1_1.png)
 **Figure 1. The Process of the Trust Game via oTree**
 
-![Image1](Advance_CSEcon/m2_q1_2.png)
+![Image](Advance_CSEcon/m2_q1_2.png)
 **Figure 2. The Result of the Trust Game via oTree**
 
 My experience with oTree for conducting behavioral experiments has been both enlightening and challenging. While it offers flexibility and convenience, several pain points hinder its effectiveness in behavioral game theory research. In deploying the trust game using oTree, I encountered several difficulties reflective of broader challenges in behavioral game theory research. 
@@ -25,7 +25,7 @@ Current MARL frameworks encounter challenges in adequately representing environm
 In deploying a MARL agent for the Prisoner's Dilemma, the following components are defined, which can also be represented in the code. States in the Prisoner’s Dilemma environment encompass information about the actions and strategies of both players, as well as any contextual variables influencing decision-making. For instance, states may include the history of previous interactions, the current round of the game, and the observed behaviors of the opponent. Additionally, the action space in this case consists of two possible actions for each player, cooperating or defecting, which represent the strategic choices available to players in each round of the game and form the basis for decision-making in the MARL framework. In this context, rewards are typically structured to incentivize cooperation and punish defection. For example, players receive higher rewards for mutual cooperation, lower rewards for mutual defection, and negative rewards for being exploited by the opponent.
 Based on my personal experience, deploying the Prisoner's Dilemma game using existing MARL frameworks highlighted the challenges of effectively representing the complexities of human decision-making and strategic interactions. The oversimplified state representations and reward structures often led to suboptimal performance and limited the realism of simulated interactions. Therefore, it underscored the importance of addressing the current limitations of MARL frameworks to enhance their applicability and effectiveness in modeling real-world scenarios. To address the limitation, a possible solution is to enhance the environment modeling. By considering factors such as repeated interactions, uncertainty, and information asymmetry, it is likely to develop MARL frameworks capable of representing the intricate dynamics of the Prisoner’s Dilemma more accurately. This involves incorporating more sophisticated state representations and reward structures to capture the complexities of real-world interactions. 
 
-![Image1](m2_q2.png)
+![Image](m2_q2.png)
 **Figure 4. Mindmap of Question2**
 
 ### Question 3: Brainstorm your research idea by criticizing existing research: Critiquing and Expanding upon Existing Research
@@ -70,11 +70,11 @@ The federated learning scenarios discussed in the paper remain pertinent and tim
 #### Part 5: Beyond Computer Science and Economics
 Incorporating the concept of bounded rationality in both human participants and AI agents within the context of the paper's findings could yield significant implications on the outcomes. As shown in `Figure 5` and `Figure 6`,ChatGPT's responses demonstrate that AI agents' decisions to participate can be influenced by rational considerations similar to human participants. If human participants and AI agents exhibit biases like loss aversion, their reluctance to participate may significantly impact the effectiveness of incentive mechanisms and the overall performance of federated learning systems. The mini-experiment highlights the necessity of conducting behavioral analyses to understand the decision-making processes of both human participants and AI agents in federated learning environments. Integrating insights from AI agents' decision-making into the paper's analysis could provide a more comprehensive understanding of the dynamics and challenges inherent in incentivizing participation in federated learning systems.
 
-![Image1](m2_q3_1.png)
+![Image](m2_q3_1.png)
 **Figure 5. Screenshot of ChatGPT's response 1**
-![Image1](m2_q3_2.png)
+![Image](m2_q3_2.png)
 **Figure 6. Screenshot of ChatGPT's response 2**
-![Image1](m2_q3_3.png)
+![Image](m2_q3_3.png)
 **Figure 7. Mindmap of Question3**
 
 ### Bibliographies
