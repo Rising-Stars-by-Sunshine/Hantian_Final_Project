@@ -14,7 +14,7 @@ You can view the shared Overleaf project through the following link:
 
 The LaTeX source files for this project have been provided as a downloadable ZIP file.
 
-[Download LaTeX ZIP File](PS2_Final.zip)
+[Download LaTeX ZIP File](Final_CS206_Hantian.zip)
 
 ## Google Colab Notebooks
 
